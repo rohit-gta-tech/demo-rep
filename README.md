@@ -1,2 +1,2 @@
 Hello there!
-Whats yp.
+Whats up?
